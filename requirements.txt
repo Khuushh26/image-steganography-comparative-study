@@ -1,0 +1,6 @@
+pillow
+numpy
+scipy
+scikit-image
+pycryptodome
+customtkinter
